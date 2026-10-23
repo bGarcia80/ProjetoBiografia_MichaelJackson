@@ -1,4 +1,4 @@
-## 🎤 Projeto Biografia Michael Jackson
+## 🎤 Projeto Biografia - Michael Jackson
 ### Um projeto dedicado à vida e à trajetória de Michael Jackson.
 
 ---------------------------------------------------------------------------------------------------------
@@ -13,7 +13,7 @@ O projeto ainda está em sua **fase inicial de desenvolvimento**, contando com p
 
 A página está em desenvolvimento e poderá ser acessada pelo link:
 
-[INSIRA AQUI O LINK DO PROJETO]
+https://bgarcia80.github.io/ProjetoBiografia_MichaelJackson/
 
 -----------------------------------------------------------------------------------------------------------
 
@@ -80,7 +80,7 @@ O projeto utiliza tecnologias e ferramentas relacionadas ao desenvolvimento web:
 Responsável pelo desenvolvimento, organização, design, conteúdo e manutenção do projeto.
 
 🌐 **Projeto:**  
-
+https://bgarcia80.github.io/ProjetoBiografia_MichaelJackson/
 
 🐙 **GitHub:**  
 https://github.com/bgarcia80
